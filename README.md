@@ -1,4 +1,4 @@
-# linear-regression
+# Program overview
 This program predicts the number of bicyclers in a given day by training a linear regression model.
 
 # Implemented techniques
